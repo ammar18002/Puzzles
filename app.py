@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from sudoku_solver import sudoku_validator, find_empty_cell, valid, solve, sudoku_solver, sudoku_check_or_solve
 from PIL import Image
-import pytesseract
+# import pytesseract
 import base64
 
 # ---------- PAGE CONFIG ----------
