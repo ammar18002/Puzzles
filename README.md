@@ -5,6 +5,8 @@ A Streamlit app that allows you to:
 - Validate whether a solution is correct
 - Solve Sudoku automatically
 - You have to add a txt file of your incomplete/complete grid. Apologies for not putting img feature yet!🙏
+- In your txt file you must not have any blank lines otherwise it will crash 💥
+- 
 
 ## 🚀 Live Demo
 [Click here to run the app on Streamlit][(https://your-streamlit-url.streamlit.app/)](https://puzzles-nzftmevuukxqeh3wxc76yv.streamlit.app/)]
