@@ -6,7 +6,7 @@ A Streamlit app that allows you to:
 - Solve Sudoku automatically
 
 ## 🚀 Live Demo
-[Click here to run the app on Streamlit](https://your-streamlit-url.streamlit.app/)
+[Click here to run the app on Streamlit][(https://your-streamlit-url.streamlit.app/)](https://puzzles-nzftmevuukxqeh3wxc76yv.streamlit.app/)]
 
 ## 📂 Project Structure
 - `app.py` → Main Streamlit app
