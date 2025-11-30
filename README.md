@@ -3,7 +3,7 @@
 A Streamlit app that allows you to:
 - Input Sudoku puzzles
 - Validate whether a solution is correct
-- Solve Sudoku automatically
+- Solve Sudoku automatically🥰
 - You have to add a txt file of your incomplete/complete grid. Apologies for not putting img feature yet!🙏
 - In your txt file you must not have any blank lines otherwise it will crash 💥
 - 
