@@ -4,8 +4,8 @@ A Streamlit app that allows you to:
 - Input Sudoku puzzles
 - Validate whether a solution is correct
 - Solve Sudoku automatically
-- You have to add a text file of your incomplete/complete grid. Apologies for not putting the img feature yet!🙏
-- In your txt file, you must not have any blank lines, otherwise it will crash 💥
+- You have to add a text file of your incomplete/complete grid. Apologies for not putting the image feature yet!🙏
+- In your text file, you must not have any blank lines, otherwise it will crash 💥
 - 
 
 ## 🚀 Live Demo
