@@ -112,7 +112,7 @@ elif st.session_state.page == "upload":
                     else:
                         st.error("❌ The solution is NOT valid.")
 
-    # Image upload
+    # ---------Image upload-----------
     uploaded_img = st.file_uploader("Upload Sudoku Image", type=["jpg", "png"])
     if uploaded_img is not None:
         img = Image.open(uploaded_img)
